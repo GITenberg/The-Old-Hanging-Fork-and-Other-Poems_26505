@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '32052'
     url: http://www.gutenberg.org/2009/agents/32052
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26505#The-Old-Hanging-Fork-and-Other-Poems
 gutenberg_issued: '2008-09-01'
 gutenberg_type: Text
 identifiers:
